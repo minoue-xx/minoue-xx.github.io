@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: minoue-xx
 description: 
 show_downloads: "false"
-logo: [Location of the logo]
-google_analytics: [Your Google Analytics tracking ID]
+logo: logo.jpg
+google_analytics: UA-147559242-1
