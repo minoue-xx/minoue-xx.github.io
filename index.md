@@ -1,1 +1,3 @@
-# minoue-xx.github.io
+# minoue-xx
+
+[link](src/another.md)
