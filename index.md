@@ -1,3 +1,6 @@
+title: The title of your site
+description: A short description of your site's purpose
+show_downloads: "true"
 # minoue-xx
 
 [link](src/another.md)
