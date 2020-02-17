@@ -27,6 +27,29 @@ Twitter: [@michio_MWJ](https://twitter.com/michio_MWJ/header_photo)
 - [【MATLAB】スライダーを動かしてプロットを操作する方法](https://qiita.com/eigs/items/9e1bee76a256f38824d1)
 
 
+## 機械学習
+
+- [実装編：オーバーサンプリング手法比較 (SMOTE, ADASYN, Borderline-SMOTE, Safe-level SMOTE)](https://qiita.com/eigs/items/9ed36b5fc2913110e940)
+- [解説編：オーバーサンプリング手法解説 (SMOTE, ADASYN, Borderline-SMOTE, Safe-level SMOTE)](https://qiita.com/eigs/items/8ae0970afe188a1124d1)
+
+## 数値計算
+
+- [【MATLAB】FFT アルゴリズムの探索メソッド比較 （Estimate/Measure/Patient）](https://qiita.com/eigs/items/b2ba207c923efb490f36)
+
+
+## MATLAB tips
+
+- [【MATLAB】何が起こっているか分からないが致命的っぽいエラーの処置方法](https://qiita.com/eigs/items/3def0ad104d2f2efed8a)
+- [【MATLAB】配列内のユニークな要素、それぞれの数を数える方法](https://qiita.com/eigs/items/c6668d6a478369e7e525)
+- [【MATLAB】PowerPoint スライド作成自動化](https://qiita.com/eigs/items/8c4bf743fc1319762607)
+- [テンプレート使って PowerPoint スライド作成自動化：MATLAB Report Generator 編](https://qiita.com/eigs/items/cb48fdcd741126d09def)
+- [N-D array（N次元配列）の計算速度比較](https://qiita.com/eigs/items/298398ca2c750beb392c)
+- [【MATLAB】パス設定に関する"基礎"知識](https://qiita.com/eigs/items/96697bd372cd45508ff1)
+- [MATLAB の polyfit 関数に手を加えて実行速度アップ（注：リスクあり）](https://qiita.com/eigs/items/3dc064bb52e2de86727f)
+- [【MATLAB】変数をスクリプトへ保存](https://qiita.com/eigs/items/f6a73f8f38d043b3b3bc)
+- [【MATLAB + Excel】ハイパーリンク付きテキストのExcel への書き込み自動化](https://qiita.com/eigs/items/26279a79319992ac123d)
+
+
 ## 自然言語処理
 
 - [【COTOHA API x MATLAB】Qiita 投稿記事の要約](https://qiita.com/eigs/items/39196afdb5f28bf3ba0f)
@@ -45,6 +68,7 @@ Twitter: [@michio_MWJ](https://twitter.com/michio_MWJ/header_photo)
 - [MATLAB タグ付きの新着投稿をお知らせする Twitter bot (Powered by ThingSpeak)](https://qiita.com/eigs/items/412cd57f0cf5aa5ac5ae)
 - [MATLAB Answers での回答者週間ランキング（日本向け）](https://qiita.com/eigs/items/bfba81f1d3e2d7690c58)
 - [【MATLAB & Python】最適化計算と Google Sheets の読み書き](https://qiita.com/eigs/items/4182fcd9b5da748ef77e)
+
 
 # MathWorks Blog
 
